@@ -8,3 +8,5 @@
 - Notebook 7 NON VA LOMP (riki)
 - Notebook 9 tick for simon
 - NOTEBOOK 14-15 SIMONE
+- NOTEBOOK 21 RKi aggregation
+- SIMONE 2d ICI
