@@ -7,4 +7,4 @@
 - Noteboook 6 coefficienti di x0 tagliati perche?
 - Notebook 7 NON VA LOMP (riki)
 - Notebook 9 tick for simon
-- 
+- NOTEBOOK 14-15 SIMONE
