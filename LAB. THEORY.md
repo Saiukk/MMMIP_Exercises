@@ -1,4 +1,0 @@
-
-
-# GAMMA LAMBDA
-
